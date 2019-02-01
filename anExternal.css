@@ -1,0 +1,85 @@
+#Header{
+    border-radius: 25px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    text-align: center
+}
+#Header h1{ 
+    font-size: 60px; 
+    font-family: "Passion One"; 
+    color: black; 
+    font-weight: bold; 
+}
+
+#LeftNav{
+    border-radius: 25px;
+    width: 400px;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    float: Left;
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+#Content{
+    border-radius: 25px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    text-align: center;
+    padding: 15px;
+
+}
+
+#Footer{
+    border:solid 8px black;
+    text-align: center
+    
+}
+
+ol{ 
+    list-style-type: none;
+    padding-left: 0px;
+    font-weight: lighter;
+    }
+
+p{ 
+    font-family: "Arial"; 
+    color: black; 
+    font-weight: bold;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h3{
+    font-size: 40px; 
+    font-family: "Passion One"; 
+    color: black; 
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+div{
+    background-color: lightcoral;
+}
+
+body{
+    background-image: url('TREE.jpg');
+}
+
+a{
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+
+  
